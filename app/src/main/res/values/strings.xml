@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MVVM新闻</string>
+    <string name="title_home">首页</string>
+    <string name="title_video">视频</string>
+    <string name="title_user">我的</string>
+    <string name="news_desc">%1$s     %2$s</string>
+</resources>
